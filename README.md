@@ -6,7 +6,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devczk&show_icons=true&locale=en&layout=compact" alt="devczk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devczk&show_icons=true&locale=en" alt="devczk" /></p>
 
