@@ -1,5 +1,5 @@
-<h1 align="center">Olá 👋, eu sou Nicolas!</h1>
-<h3 align="center">Um desenvolvedor mobile apaixonado por tecnologia.</h3>
+<h1 align="center">Bem-vindo ao meu perfil!👋</h1>
+<h3 align="center">Um desenvolvedor mobile/web apaixonado por programação!</h3>
 
 
 
