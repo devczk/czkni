@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nicolas C. Jakymiu</h1>
+<h1 align="center">Olá 👋, eu sou Nicolas!</h1>
 <h3 align="center">Um desenvolvedor mobile apaixonado por tecnologia.</h3>
 
 
