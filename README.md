@@ -1,4 +1,4 @@
-![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM..](https://images.alphacoders.com/976/976901.jpg).)]([https://rishavchanda.io](https://images.alphacoders.com/976/976901.jpg))
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://images.alphacoders.com/976/976901.jpg))](https://rishavchanda.io))
 
 <img align="right" alt="Coding" width="400" src="https://images.alphacoders.com/976/976901.jpg">
 <h1 align="center">Olá, eu sou o Nicolas!👋</h1>
