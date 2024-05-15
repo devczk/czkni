@@ -7,7 +7,6 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devczk&show_icons=true&locale=en" alt="devczk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devczk&" alt="devczk" /></p>
 
