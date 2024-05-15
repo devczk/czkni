@@ -1,8 +1,6 @@
 [![MasterHead](https://wallpapers.com/images/hd/1920x1080-aesthetic-glrfk0ntspz3tvxg.jpg)](https://images.alphacoders.com/976/976901.jpg)
 <br><br>
 <img align="right" alt="Coding" width="400" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif">
---<h1 align="center">Olá, eu sou o Nicolas!👋</h1>
---<h3 align="center">Um desenvolvedor mobile/web apaixonado por programação!</h3>
 
 
 
