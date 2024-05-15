@@ -1,6 +1,6 @@
 [![MasterHead](https://wallpapers.com/images/hd/1920x1080-aesthetic-glrfk0ntspz3tvxg.jpg)](https://images.alphacoders.com/976/976901.jpg)
 
-<img align="right" alt="Coding" width="400" src="https://images.alphacoders.com/976/976901.jpg">
+<img align="right" alt="Coding" width="400" src="[https://images.alphacoders.com/976/976901.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fphp-development&psig=AOvVaw1nQHsmx8431ieT_IXh2LYy&ust=1715889722064000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIibpL25kIYDFQAAAAAdAAAAABAE)">
 <h1 align="center">Olá, eu sou o Nicolas!👋</h1>
 <h3 align="center">Um desenvolvedor mobile/web apaixonado por programação!</h3>
 
