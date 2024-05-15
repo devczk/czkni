@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicolas C. Jakymiu</h1>
 <h3 align="center">Um desenvolvedor mobile apaixonado por tecnologia.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devczk" alt="devczk" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
