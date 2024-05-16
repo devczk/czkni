@@ -10,8 +10,11 @@
   
 # 📊 Estatísticas:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=devczk&theme=midnight-purple&hide_border=false)<br/>
-<img align="right" alt="Coding" width="200" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif">
+<div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devczk&theme=midnight-purple&hide_border=false" alt="GitHub Streak" style="float: left; margin-right: 10px;" />
+    <img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" alt="Coding" width="200" style="float: right;" />
+</div>
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
