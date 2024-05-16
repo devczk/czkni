@@ -12,7 +12,7 @@
 
 <div style="display: flex;">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=merko&card_width=600)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=merko&card_width=600" alt="GitHub Streak" /></a>
   
  <!--  <img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" alt="Coding" width="300" /> -->
 
