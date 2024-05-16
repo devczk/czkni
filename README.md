@@ -11,7 +11,7 @@
   
 # 📊 Estatísticas:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devczk&theme=merko&card_width=600)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=devczk&theme=merko&card_width=800)](https://git.io/streak-stats)
 
 
 
