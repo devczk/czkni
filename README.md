@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/devczk/devczk/assets/127226763/c1f68ce5-8931-4f6e-9bd9-896fcf43993d))](https://rishavchanda.io)
+[![MasterHead](https://github.com/devczk/devczk/assets/127226763/c1f68ce5-8931-4f6e-9bd9-896fcf43993d)]
 
 
 # 💫 Sobre mim:
