@@ -3,7 +3,7 @@
 # 💻 Competências:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,java,flutter,dart,ae,bootstrap,figma,postgresql,firebase,kotlin,git,github,jquery,linux,mysql,netlify,php,postgres,py,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,flutter,dart,ae,bootstrap,figma,postgresql,firebase,kotlin,git,github,jquery,linux,mysql,netlify,php,postgres,py,vscode&perline=11" />
 
 </a>
   </p>
