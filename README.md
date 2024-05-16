@@ -9,7 +9,7 @@
   </p>
   
 # 📊 Estatísticas:
-
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=merko&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 <div style="display: flex;">
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=merko&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
