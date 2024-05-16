@@ -1,5 +1,6 @@
-[![MasterHead](![image](https://github.com/devczk/devczk/assets/127226763/66e93f06-2556-46b9-a2d9-b063b95a4664)
-))]
+[![MasterHead](![image](https://github.com/devczk/devczk/assets/127226763/1dc8c696-d27b-41e4-b0a9-d953ab57eeb9)
+)](https://rishavchanda.io)
+
 # 💫 Sobre mim:
 🔭 Desenvolvedor Web & Mobile.<br>🌱 União da Vitória | PR.<br>💬 23 anos.<br>
 
