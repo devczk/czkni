@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 🔭 Desenvolvedor Web & Mobile.<br>🌱 União da Vitória | PR.<br>💬 23 anos.<br>
 
 
