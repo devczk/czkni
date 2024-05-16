@@ -12,8 +12,7 @@
 
 <div style="display: flex;">
   
- 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devczk&theme=midnight-purple&hide_border=false" alt="GitHub Streak" />
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=merko&card_width=600)](https://git.io/streak-stats)
   
  <!--  <img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" alt="Coding" width="300" /> -->
 
