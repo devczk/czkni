@@ -10,12 +10,11 @@
   
 # 📊 Estatísticas:
 
-<div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devczk&theme=midnight-purple&hide_border=false" alt="GitHub Streak" style="float: left; margin-right: 10px;" />
-    <br/>
-    <div style="width: 10px; height: auto; float: left;"></div> <!-- Espaço entre as imagens -->
-    <img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" alt="Coding" width="200" style="float: right;" />
+<div style="display: flex;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devczk&theme=midnight-purple&hide_border=false" alt="GitHub Streak" style="margin-right: 20px;" />
+    <img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" alt="Coding" width="200" />
 </div>
+
 
 
 
