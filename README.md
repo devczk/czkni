@@ -11,7 +11,9 @@
 # 📊 Estatísticas:
 
 <div style="display: flex;">
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devczk&theme=midnight-purple&hide_border=false" alt="GitHub Streak" />
+  
  <!--  <img src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif" alt="Coding" width="300" /> -->
 
     
