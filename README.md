@@ -11,6 +11,7 @@
 # 📊 Estatísticas:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devczk&theme=midnight-purple&hide_border=false)<br/>
+(img align="right" alt="Coding" width="400" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif")
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
